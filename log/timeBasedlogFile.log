@@ -1,0 +1,5 @@
+2711 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+2770 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dhryciuk\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+7473 [main] INFO  Lesson8LogbackTest.class - >>>> Start test >>>>>
+7479 [main] INFO  Lesson8LogbackTest.class - Actual title: SeleniumHQ Browser Automation
+7480 [main] INFO  Lesson8LogbackTest.class - Expected title: SeleniumHQ Browser Automation

@@ -1,0 +1,3 @@
+88100 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+88206 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dhryciuk\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+104832 [main] INFO  Lesson8LogbackTest.class - >>>> Start test >>>>>
